@@ -1,0 +1,42 @@
+{
+  "build": "h57928b3_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [],
+  "extracted_package_dir": "C:\\Users\\Shivanshu\\Softwares\\miniconda3\\pkgs\\pandoc-3.1.12.3-h57928b3_0",
+  "features": "",
+  "files": [
+    "Library/bin/pandoc.exe",
+    ".nonadmin"
+  ],
+  "fn": "pandoc-3.1.12.3-h57928b3_0.conda",
+  "license": "GPL-2.0-or-later",
+  "link": {
+    "source": "C:\\Users\\Shivanshu\\Softwares\\miniconda3\\pkgs\\pandoc-3.1.12.3-h57928b3_0",
+    "type": 1
+  },
+  "md5": "fb5e84d5b27eb70305880095e2dbf9d3",
+  "name": "pandoc",
+  "package_tarball_full_path": "C:\\Users\\Shivanshu\\Softwares\\miniconda3\\pkgs\\pandoc-3.1.12.3-h57928b3_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/pandoc.exe",
+        "path_type": "hardlink",
+        "sha256": "32634af2660d84b6af8165d284bd5363255cdf96ee9b7ef09a86fd030de0629b",
+        "sha256_in_prefix": "32634af2660d84b6af8165d284bd5363255cdf96ee9b7ef09a86fd030de0629b",
+        "size_in_bytes": 219276288
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "0c36e2a3d53d9db8d6270b57548e90017edb6be09708910783143cf560f48ec7",
+  "size": 24893042,
+  "subdir": "win-64",
+  "timestamp": 1710767473000,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/pandoc-3.1.12.3-h57928b3_0.conda",
+  "version": "3.1.12.3"
+}

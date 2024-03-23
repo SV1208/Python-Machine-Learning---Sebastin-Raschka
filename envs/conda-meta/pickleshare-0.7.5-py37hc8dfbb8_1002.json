@@ -1,0 +1,117 @@
+{
+  "build": "py37hc8dfbb8_1002",
+  "build_number": 1002,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.7,<3.8.0a0",
+    "python_abi 3.7.* *_cp37m"
+  ],
+  "extracted_package_dir": "C:\\Users\\Shivanshu\\Softwares\\miniconda3\\pkgs\\pickleshare-0.7.5-py37hc8dfbb8_1002",
+  "features": "",
+  "files": [
+    "Lib/site-packages/__pycache__/pickleshare.cpython-37.pyc",
+    "Lib/site-packages/pickleshare-0.7.5.dist-info/INSTALLER",
+    "Lib/site-packages/pickleshare-0.7.5.dist-info/LICENSE",
+    "Lib/site-packages/pickleshare-0.7.5.dist-info/METADATA",
+    "Lib/site-packages/pickleshare-0.7.5.dist-info/RECORD",
+    "Lib/site-packages/pickleshare-0.7.5.dist-info/REQUESTED",
+    "Lib/site-packages/pickleshare-0.7.5.dist-info/WHEEL",
+    "Lib/site-packages/pickleshare-0.7.5.dist-info/direct_url.json",
+    "Lib/site-packages/pickleshare-0.7.5.dist-info/top_level.txt",
+    "Lib/site-packages/pickleshare.py",
+    ".nonadmin"
+  ],
+  "fn": "pickleshare-0.7.5-py37hc8dfbb8_1002.tar.bz2",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\Shivanshu\\Softwares\\miniconda3\\pkgs\\pickleshare-0.7.5-py37hc8dfbb8_1002",
+    "type": 1
+  },
+  "md5": "b633ace65bb92a673748ce48c2c24839",
+  "name": "pickleshare",
+  "package_tarball_full_path": "C:\\Users\\Shivanshu\\Softwares\\miniconda3\\pkgs\\pickleshare-0.7.5-py37hc8dfbb8_1002.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/__pycache__/pickleshare.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "50b4ba7ba2affba2958b51af0ffbf9fae2200114d46a76c4e5ec9521c8e943ea",
+        "sha256_in_prefix": "50b4ba7ba2affba2958b51af0ffbf9fae2200114d46a76c4e5ec9521c8e943ea",
+        "size_in_bytes": 10020
+      },
+      {
+        "_path": "Lib/site-packages/pickleshare-0.7.5.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/pickleshare-0.7.5.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "db1fefc1789444409514c0cae0bfab7f8e374ff9b78e092cecb1e0aeb6a36d90",
+        "sha256_in_prefix": "db1fefc1789444409514c0cae0bfab7f8e374ff9b78e092cecb1e0aeb6a36d90",
+        "size_in_bytes": 1079
+      },
+      {
+        "_path": "Lib/site-packages/pickleshare-0.7.5.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "19a4aec39660259a6ccf23c90f7c73d63b479a284d856e20b92cd49bf78b6615",
+        "sha256_in_prefix": "19a4aec39660259a6ccf23c90f7c73d63b479a284d856e20b92cd49bf78b6615",
+        "size_in_bytes": 1520
+      },
+      {
+        "_path": "Lib/site-packages/pickleshare-0.7.5.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "00f46adf6b241fc46ced8cfd6a0c24e1a02a7b8316e70df83869e496830c551c",
+        "sha256_in_prefix": "00f46adf6b241fc46ced8cfd6a0c24e1a02a7b8316e70df83869e496830c551c",
+        "size_in_bytes": 809
+      },
+      {
+        "_path": "Lib/site-packages/pickleshare-0.7.5.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/pickleshare-0.7.5.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "8313daa9ca8a3cb51769200ac267c73bbfe200e955be6a77dc37b09d496e041f",
+        "sha256_in_prefix": "8313daa9ca8a3cb51769200ac267c73bbfe200e955be6a77dc37b09d496e041f",
+        "size_in_bytes": 116
+      },
+      {
+        "_path": "Lib/site-packages/pickleshare-0.7.5.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "fd4324afc7cdf4de41531ed8e609a175f9aea3724c96c4e839762f28033b4eb3",
+        "sha256_in_prefix": "fd4324afc7cdf4de41531ed8e609a175f9aea3724c96c4e839762f28033b4eb3",
+        "size_in_bytes": 72
+      },
+      {
+        "_path": "Lib/site-packages/pickleshare-0.7.5.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "1a2617205194689807f88e7a194e90f4303c426c01b5334bd7f50c06511296db",
+        "sha256_in_prefix": "1a2617205194689807f88e7a194e90f4303c426c01b5334bd7f50c06511296db",
+        "size_in_bytes": 12
+      },
+      {
+        "_path": "Lib/site-packages/pickleshare.py",
+        "path_type": "hardlink",
+        "sha256": "600615fe0e690e755f3b721e479bccc8d3485ace1d84132d4df2077af2ca23a1",
+        "sha256_in_prefix": "600615fe0e690e755f3b721e479bccc8d3485ace1d84132d4df2077af2ca23a1",
+        "size_in_bytes": 9942
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "0e08d6451b3a6e0893afcab564796ef9c1bb94d296cf3f98a3fa913579af203a",
+  "size": 13728,
+  "subdir": "win-64",
+  "timestamp": 1602535953000,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/pickleshare-0.7.5-py37hc8dfbb8_1002.tar.bz2",
+  "version": "0.7.5"
+}
