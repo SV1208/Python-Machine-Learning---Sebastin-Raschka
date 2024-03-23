@@ -1,0 +1,16 @@
+==> 2024-03-23 16:02:13 <==
+# cmd: C:\Users\Shivanshu\Softwares\miniconda3\Scripts\conda-script.py create -p ./envs python=3.7
+# conda version: 23.11.0
++conda-forge/noarch::pip-24.0-pyhd8ed1ab_0
++conda-forge/noarch::setuptools-69.0.3-pyhd8ed1ab_0
++conda-forge/noarch::wheel-0.43.0-pyhd8ed1ab_0
++conda-forge/win-64::ca-certificates-2024.2.2-h56e8100_0
++conda-forge/win-64::libsqlite-3.45.2-hcfcfb64_0
++conda-forge/win-64::openssl-3.2.1-hcfcfb64_1
++conda-forge/win-64::python-3.7.12-h900ac77_100_cpython
++conda-forge/win-64::sqlite-3.45.2-hcfcfb64_0
++conda-forge/win-64::ucrt-10.0.22621.0-h57928b3_0
++conda-forge/win-64::vc-14.3-hcf57466_18
++conda-forge/win-64::vc14_runtime-14.38.33130-h82b7239_18
++conda-forge/win-64::vs2015_runtime-14.38.33130-hcb4865c_18
+# update specs: ['python=3.7']
