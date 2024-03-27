@@ -1,0 +1,112 @@
+{
+  "build": "h63175ca_2",
+  "build_number": 2,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vs2015_runtime >=14.29.30139"
+  ],
+  "extracted_package_dir": "C:\\Users\\Shivanshu\\Softwares\\miniconda3\\pkgs\\openh264-2.3.1-h63175ca_2",
+  "features": "",
+  "files": [
+    "Library/bin/h264dec.exe",
+    "Library/bin/h264enc.exe",
+    "Library/bin/openh264-7.dll",
+    "Library/include/wels/codec_api.h",
+    "Library/include/wels/codec_app_def.h",
+    "Library/include/wels/codec_def.h",
+    "Library/include/wels/codec_ver.h",
+    "Library/lib/openh264.lib",
+    "Library/lib/pkgconfig/openh264.pc",
+    ".nonadmin"
+  ],
+  "fn": "openh264-2.3.1-h63175ca_2.conda",
+  "license": "BSD-2-Clause",
+  "link": {
+    "source": "C:\\Users\\Shivanshu\\Softwares\\miniconda3\\pkgs\\openh264-2.3.1-h63175ca_2",
+    "type": 1
+  },
+  "md5": "76e822d93cdc32b00b61810d3fa030e0",
+  "name": "openh264",
+  "package_tarball_full_path": "C:\\Users\\Shivanshu\\Softwares\\miniconda3\\pkgs\\openh264-2.3.1-h63175ca_2.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/h264dec.exe",
+        "path_type": "hardlink",
+        "sha256": "536d209d853c5f35be3611519f970ab775c8e8d4f788584cc89acb23dc689960",
+        "sha256_in_prefix": "536d209d853c5f35be3611519f970ab775c8e8d4f788584cc89acb23dc689960",
+        "size_in_bytes": 367616
+      },
+      {
+        "_path": "Library/bin/h264enc.exe",
+        "path_type": "hardlink",
+        "sha256": "ba0fdb6c96e2e67c261a8ce79e71ad5e7ab826bec7ca39789f81dd44cc4e59a3",
+        "sha256_in_prefix": "ba0fdb6c96e2e67c261a8ce79e71ad5e7ab826bec7ca39789f81dd44cc4e59a3",
+        "size_in_bytes": 420352
+      },
+      {
+        "_path": "Library/bin/openh264-7.dll",
+        "path_type": "hardlink",
+        "sha256": "5b3b7f8cba9196441fcd286399b5cd42eece3cd2a95d4b2e2ead868253ec5d05",
+        "sha256_in_prefix": "5b3b7f8cba9196441fcd286399b5cd42eece3cd2a95d4b2e2ead868253ec5d05",
+        "size_in_bytes": 799232
+      },
+      {
+        "_path": "Library/include/wels/codec_api.h",
+        "path_type": "hardlink",
+        "sha256": "21f29b20c24f7c7946f2e243d0bc2532fb3542f6c28af338209477e70d9036c9",
+        "sha256_in_prefix": "21f29b20c24f7c7946f2e243d0bc2532fb3542f6c28af338209477e70d9036c9",
+        "size_in_bytes": 21178
+      },
+      {
+        "_path": "Library/include/wels/codec_app_def.h",
+        "path_type": "hardlink",
+        "sha256": "ffd9561a96b4290daddce67b23f1d4839568bfe73531f0309215ab64bb7f5580",
+        "sha256_in_prefix": "ffd9561a96b4290daddce67b23f1d4839568bfe73531f0309215ab64bb7f5580",
+        "size_in_bytes": 32852
+      },
+      {
+        "_path": "Library/include/wels/codec_def.h",
+        "path_type": "hardlink",
+        "sha256": "f974d269b5935e8dc7265b8bfc02f60e5185b4d6165d30541d2758a4506f1979",
+        "sha256_in_prefix": "f974d269b5935e8dc7265b8bfc02f60e5185b4d6165d30541d2758a4506f1979",
+        "size_in_bytes": 7630
+      },
+      {
+        "_path": "Library/include/wels/codec_ver.h",
+        "path_type": "hardlink",
+        "sha256": "18df4a1a9876151d678e43e321cc4f60c87669d203acd66a5513b3f0a28ff292",
+        "sha256_in_prefix": "18df4a1a9876151d678e43e321cc4f60c87669d203acd66a5513b3f0a28ff292",
+        "size_in_bytes": 420
+      },
+      {
+        "_path": "Library/lib/openh264.lib",
+        "path_type": "hardlink",
+        "sha256": "063bb8367b874774574c4039b92057f102c1b7acd3309894b80c8eadb0e0ec3f",
+        "sha256_in_prefix": "063bb8367b874774574c4039b92057f102c1b7acd3309894b80c8eadb0e0ec3f",
+        "size_in_bytes": 2922
+      },
+      {
+        "_path": "Library/lib/pkgconfig/openh264.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "D:/bld/openh264_1675880712010/_h_env",
+        "sha256": "3bfcf566cef557436dc016d12af031ce814e9e1b4b9e131567212d7394fe9ef3",
+        "sha256_in_prefix": "a0b7b4974bf71791750e6c0a2853136ce08a38a9c0f2ad6bc829bd42a4e3ffb7",
+        "size_in_bytes": 345
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "251566b5326a292215a3db5a184c255a092242a371431b617c7baf300fa9d170",
+  "size": 410812,
+  "subdir": "win-64",
+  "timestamp": 1675882258000,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/openh264-2.3.1-h63175ca_2.conda",
+  "version": "2.3.1"
+}
