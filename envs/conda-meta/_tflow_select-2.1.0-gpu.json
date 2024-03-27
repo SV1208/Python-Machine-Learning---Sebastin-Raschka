@@ -1,0 +1,33 @@
+{
+  "build": "gpu",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [],
+  "extracted_package_dir": "C:\\Users\\Shivanshu\\Softwares\\miniconda3\\pkgs\\_tflow_select-2.1.0-gpu",
+  "features": "",
+  "files": [
+    ".nonadmin"
+  ],
+  "fn": "_tflow_select-2.1.0-gpu.conda",
+  "license": "",
+  "link": {
+    "source": "C:\\Users\\Shivanshu\\Softwares\\miniconda3\\pkgs\\_tflow_select-2.1.0-gpu",
+    "type": 1
+  },
+  "md5": "d8310d81844c4bc2dd8aa8e1eb4ec396",
+  "name": "_tflow_select",
+  "package_tarball_full_path": "C:\\Users\\Shivanshu\\Softwares\\miniconda3\\pkgs\\_tflow_select-2.1.0-gpu.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "f1f418d3bfc70a704513ad8c2fea2824aaf789fc6f171325c36fad396b23ecaa",
+  "size": 3403,
+  "subdir": "win-64",
+  "timestamp": 1538709813000,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/_tflow_select-2.1.0-gpu.conda",
+  "version": "2.1.0"
+}

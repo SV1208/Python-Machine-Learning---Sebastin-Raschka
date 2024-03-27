@@ -1,0 +1,70 @@
+{
+  "build": "h36d860d_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "cudatoolkit 10.1|10.1.*",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012"
+  ],
+  "extracted_package_dir": "C:\\Users\\Shivanshu\\Softwares\\miniconda3\\pkgs\\cudnn-7.6.5.32-h36d860d_1",
+  "features": "",
+  "files": [
+    "Library/bin/cudnn64_7.dll",
+    "Library/include/cudnn.h",
+    "Library/lib/cudnn.lib",
+    "Scripts/.cudnn-post-link.bat",
+    ".nonadmin"
+  ],
+  "fn": "cudnn-7.6.5.32-h36d860d_1.tar.bz2",
+  "license": "cuDNN Software License Agreement",
+  "link": {
+    "source": "C:\\Users\\Shivanshu\\Softwares\\miniconda3\\pkgs\\cudnn-7.6.5.32-h36d860d_1",
+    "type": 1
+  },
+  "md5": "8ab70f706ebb86cd57d5cd68b315f1dd",
+  "name": "cudnn",
+  "package_tarball_full_path": "C:\\Users\\Shivanshu\\Softwares\\miniconda3\\pkgs\\cudnn-7.6.5.32-h36d860d_1.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/cudnn64_7.dll",
+        "path_type": "hardlink",
+        "sha256": "498d9bb9d55da0c139a52ff4abe7ae5cd2d49576fe91c3ff1ea1f93730a7d180",
+        "sha256_in_prefix": "498d9bb9d55da0c139a52ff4abe7ae5cd2d49576fe91c3ff1ea1f93730a7d180",
+        "size_in_bytes": 420862976
+      },
+      {
+        "_path": "Library/include/cudnn.h",
+        "path_type": "hardlink",
+        "sha256": "9c6d4c25cd0c858e315df4553dd83f491796b4e8f0096437f5cd38ce930cc4fb",
+        "sha256_in_prefix": "9c6d4c25cd0c858e315df4553dd83f491796b4e8f0096437f5cd38ce930cc4fb",
+        "size_in_bytes": 134857
+      },
+      {
+        "_path": "Library/lib/cudnn.lib",
+        "path_type": "hardlink",
+        "sha256": "4e668ebd9354b927ff6bed24afc3760b20328f4dd726f82628e3a4ec457990f8",
+        "sha256_in_prefix": "4e668ebd9354b927ff6bed24afc3760b20328f4dd726f82628e3a4ec457990f8",
+        "size_in_bytes": 64896
+      },
+      {
+        "_path": "Scripts/.cudnn-post-link.bat",
+        "path_type": "hardlink",
+        "sha256": "b24e82adf11fd0d7cecc4c332ae0845e4c06f882a90e419b18b70b7b63c74aae",
+        "sha256_in_prefix": "b24e82adf11fd0d7cecc4c332ae0845e4c06f882a90e419b18b70b7b63c74aae",
+        "size_in_bytes": 206
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "44b6acb0eb2f2664c2845dbfe1d1aeb87b20d79fe56ba39c3537b46f26c83514",
+  "size": 262623054,
+  "subdir": "win-64",
+  "timestamp": 1608259566000,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/cudnn-7.6.5.32-h36d860d_1.tar.bz2",
+  "version": "7.6.5.32"
+}
